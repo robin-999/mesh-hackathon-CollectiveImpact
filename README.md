@@ -11,7 +11,6 @@ Let's play the integration.
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 Eine App, die Integration fördert und gleichzeitig den ländlichen Raum belebt.
-
 #interaktiv 
 #gamification
 #peertopeer
