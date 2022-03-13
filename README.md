@@ -10,7 +10,12 @@ EMBRACE. INVOLCE. INCLUDE.
 Let's play the integration.
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
-Solution / Prototyp Link / Documentation / Beschreibung
+Eine App, die Integration fördert und gleichzeitig den ländlichen Raum belebt.
+
+#interaktiv 
+#gamification
+#peertopeer
+#peertoorganisation
 
 # Name des Teams und der einzelnen Teammitglieder
 Health2 / Adrian Scheubrein, Vicky Schüle, Elisabeth Fändrich, Robin Grupp und Grumpy Cat
