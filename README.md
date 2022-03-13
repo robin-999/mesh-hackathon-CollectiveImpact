@@ -17,4 +17,4 @@ Eine App, die Integration fördert und gleichzeitig den ländlichen Raum belebt.
 
 
 # Name des Teams und der einzelnen Teammitglieder
-Health2 / Adrian Scheubrein, Vicky Schüle, Elisabeth Fändrich, Robin Grupp und Grumpy Cat
+Health2 / Adrian Scheubrein, Vicky Schüle, Elisabeth Fähndrich, Robin Grupp und Grumpy Cat
