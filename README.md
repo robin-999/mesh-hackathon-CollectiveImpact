@@ -1,5 +1,5 @@
 # mesh-hackathon-CollectiveImpact
-Submission im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart.
+Submission des Teams H02 im Rahmen des MESH Innovation Summit by StuV DHBW Stuttgart. 
 Let's play the integration.
 
 # Titel der Solution
