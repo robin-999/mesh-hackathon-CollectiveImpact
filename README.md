@@ -4,6 +4,7 @@ Let's play the integration.
 
 # Titel der Solution
 Collective Impact
+![Intro_Slide](https://user-images.githubusercontent.com/82825256/158055070-791281b5-2f31-49d8-bde1-8ffb1f3a434b.PNG)
 
 # Slogan der Solution
 EMBRACE. INVOLCE. INCLUDE.
