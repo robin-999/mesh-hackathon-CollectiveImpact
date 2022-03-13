@@ -9,6 +9,8 @@ Collective Impact
 # Slogan der Solution
 EMBRACE. INVOLCE. INCLUDE.
 Let's play the integration.
+![image](https://user-images.githubusercontent.com/82825256/158055680-3f66b6ad-4704-42ae-9248-4c2d93dbfc24.png)
+
 
 # Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 Eine App, die Integration fördert und gleichzeitig den ländlichen Raum belebt.
